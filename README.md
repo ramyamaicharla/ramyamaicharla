@@ -172,7 +172,7 @@ A growing archive of solved problems tracking consistent problem-solving practic
 
 - Agentic AI workflows (LangGraph, CrewAI)
 - RAG pipeline design at production scale
-- Advanced SQL — window functions, query optimization
+- SQL — window functions, query optimization
 - End-to-end ML deployment (model serving, monitoring)
 
 ---
