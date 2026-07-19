@@ -38,7 +38,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 **Data & ML**
 <br/>
@@ -171,7 +170,7 @@ A growing archive of solved problems tracking consistent problem-solving practic
 
 - Agentic AI workflows (LangGraph, CrewAI)
 - RAG pipeline design at production scale
-- Advanced SQL — window functions, query optimization
+- SQL — window functions, query optimization
 - End-to-end ML deployment (model serving, monitoring)
 
 ---
