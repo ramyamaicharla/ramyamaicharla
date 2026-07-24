@@ -28,7 +28,6 @@
 - 🗄️ Solid grounding in **SQL Server** for structured data and query optimization
 - 🎯 Actively seeking **Data Scientist / Data Analyst / Backend Developer** roles in **Hyderabad**
 - 📍 Based in Ameerpet, Hyderabad, India
-- 💬 Ask me about pandas, scikit-learn, SQL, or how I debugged a Streamlit app on Windows at 1 AM
 
 ---
 
