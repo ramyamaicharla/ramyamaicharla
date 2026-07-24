@@ -144,6 +144,22 @@ A growing archive of solved problems tracking consistent problem-solving practic
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏡 California House Price Predictor**
+<br/>
+Flask web app serving a Linear Regression model trained on the California Housing dataset — predicts median house value from features like income, house age, rooms, and location, through a clean glassmorphism-style UI.
+
+`Python` `Flask` `Scikit-learn` `Pandas` `HTML/CSS`
+
+[🔗 View Repo](https://github.com/ramyamaicharla/california-house-price-predictor)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 > 📌 Update the repo links above to match your actual GitHub repo names — GitHub will show a 404 until then.
